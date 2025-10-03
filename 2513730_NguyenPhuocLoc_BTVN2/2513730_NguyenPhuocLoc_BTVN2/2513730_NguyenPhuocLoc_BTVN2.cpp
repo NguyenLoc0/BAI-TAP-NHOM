@@ -2,6 +2,7 @@
 #include <conio.h>
 using namespace std;
 
+//Em khong biet co bao Hoan vi P(r, n) hay la doi cho 2 so nen em lam luon ca hai a ^^
 int Giaithua (int n) {
 	if ((n == 0) || (n == 1)) {
 		return 1;
